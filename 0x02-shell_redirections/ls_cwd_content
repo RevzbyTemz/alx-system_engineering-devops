@@ -1,0 +1,14 @@
+total 4
+drwxr-xr-x 1 temi temi 512 Apr  4 08:36 .
+drwxr-xr-x 1 temi temi 512 Apr  4 06:33 ..
+-rwxr--r-- 1 temi temi  32 Apr  4 06:51 0-hello_world
+-rwxr--r-- 1 temi temi  28 Apr  4 07:16 1-confused_smiley
+-rwxr--r-- 1 temi temi  28 Apr  4 07:20 2-hellofile
+-rwxr--r-- 1 temi temi  39 Apr  4 07:22 3-twofiles
+-rwxr--r-- 1 temi temi  29 Apr  4 07:28 4-lastlines
+-rwxr--r-- 1 temi temi  29 Apr  4 07:29 5-firstlines
+-rwxr--r-- 1 temi temi  37 Apr  4 08:11 6-third_line
+-rwxr--r-- 1 temi temi  36 Apr  4 08:35 8-cwd_state
+-rw-r--r-- 1 temi temi  32 Apr  4 06:49 README.md
+-rw-r--r-- 1 temi temi 142 Apr  4 07:57 iacta
+-rw-r--r-- 1 temi temi   0 Apr  4 08:36 ls_cwd_content
